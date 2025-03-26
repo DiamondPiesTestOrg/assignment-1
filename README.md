@@ -36,7 +36,9 @@ Input will be a positive integer representing how many cards Cruella received fo
 
 Age to Days
 
-Let the user take their age (in years) and convert this to the equivalent number of days. Note: Use 365 days as the length for a year
+Let the user take their age (in years) and convert this to the equivalent number of days. 
+
+> Note: Use 365 days as the length for a year
 
 Ignore leap years and days between last birthday and now. (So they just turned the age they inputted)
 
