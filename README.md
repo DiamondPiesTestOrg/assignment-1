@@ -1,5 +1,7 @@
 # Beginners Problem 1
 
+[![forthebadge](https://forthebadge.com/images/badges/uses-python.svg)]()
+
 ## Q1
 
 Convert Minutes into Seconds
