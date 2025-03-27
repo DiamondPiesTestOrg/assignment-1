@@ -59,8 +59,3 @@ Expand this further by telling the user (i.e. output) how many days it will take
 | Sample Input 1.1 | Sample Output 1.1 |
 |:--:|:--:|
 | Enter your age in years: `65` | `You are 23725 days old. In 12775 days you will be 100 years old!` |
-
-```text
-Something new HERE!!! :)
-```
-
